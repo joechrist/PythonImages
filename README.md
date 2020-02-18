@@ -1,1 +1,1 @@
-# PythonImages
+# Work with images in Python
